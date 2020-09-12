@@ -14,7 +14,7 @@ class Shoe
   end
   
 def brand=(genre)
-  
+  @
   
 def 
 end
